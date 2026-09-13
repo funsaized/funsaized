@@ -31,6 +31,6 @@ const sai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="absmiddle" hspace="8">&nbsp;&nbsp;<em><b>I love connecting over a virtual coffee</b> — say hi, or <b>hit me up on Discord @funsaized</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="absmiddle" hspace="8">&nbsp;&nbsp;<em>I love connecting over a coffee - say hi, or hit me up on Discord @funsaized :)</em>
 
 ---
