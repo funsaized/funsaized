@@ -11,6 +11,7 @@
   [![Linkedin: sainimmagadda](https://img.shields.io/badge/-sainimmagadda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sainimmagadda/)](https://www.linkedin.com/in/sainimmagadda/)
   [![GitHub funsaized](https://img.shields.io/github/followers/funsaized?label=follow&style=social)](https://github.com/funsaized)
   [![Blog](https://img.shields.io/badge/-s11a.com-6F4E37?style=flat-square)](https://www.s11a.com/)
+  [![Discord](https://img.shields.io/badge/-funsaized-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/funsaized)
 </div>
 
 ### A little more about me...
@@ -30,6 +31,6 @@ const sai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="absmiddle" hspace="8">&nbsp;&nbsp;<em><b>I love connecting over coffee</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="absmiddle" hspace="8">&nbsp;&nbsp;<em><b>I love connecting over a virtual coffee</b> — say hi, or <b>hit me up on Discord @funsaized</b> :)</em>
 
 ---
