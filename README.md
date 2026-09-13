@@ -2,7 +2,7 @@
   <h2>Hi, I'm Sai!</h2>
   <img src="https://i.pinimg.com/originals/a3/7d/03/a37d03e9e6ad102a4f84c77413ac2673.gif" width="180" alt="coffee mug">
   <p>
-    <em>Full Stack, AI/ML at <a href="https://www.optum.com">Optum</a></em>&emsp;&nbsp;<img src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" width="52" align="absmiddle" hspace="10" vspace="6" alt="corgi at a laptop">
+    <em>Full Stack, AI/ML at <a href="https://github.com/Optum">Optum</a></em>&emsp;&nbsp;<img src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" width="52" align="absmiddle" hspace="10" vspace="6" alt="corgi at a laptop">
   </p>
   <p>
     <em>Electrical, Computer & Biomedical Engineering at <a href="https://pratt.duke.edu">Duke University</a></em>&emsp;&nbsp;<img src="https://media.giphy.com/media/OB7S9QMlfnLji/200w.gif" width="40" align="absmiddle" hspace="10" vspace="6" alt="pouring coffee">
