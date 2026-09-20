@@ -5,7 +5,7 @@
     <em>Full Stack, AI/ML at <a href="https://github.com/Optum">Optum</a></em>&emsp;&nbsp;<img src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" width="52" align="absmiddle" hspace="10" vspace="6" alt="corgi at a laptop">
   </p>
   <p>
-    <em>Electrical, Computer & Biomedical Engineering at <a href="https://pratt.duke.edu">Duke University</a></em>&emsp;&nbsp;<img src="https://media.giphy.com/media/OB7S9QMlfnLji/200w.gif" width="40" align="absmiddle" hspace="10" vspace="6" alt="pouring coffee">
+    <em>Electrical and Computer Engineering, Biomedical Engineering at <a href="https://pratt.duke.edu">Duke University</a></em>&emsp;&nbsp;<img src="https://media.giphy.com/media/OB7S9QMlfnLji/200w.gif" width="40" align="absmiddle" hspace="10" vspace="6" alt="pouring coffee">
   </p>
 
   [![Linkedin: sainimmagadda](https://img.shields.io/badge/-sainimmagadda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sainimmagadda/)](https://www.linkedin.com/in/sainimmagadda/)
